@@ -1,4 +1,4 @@
-# assesment_task
+# Real Estate app
 
 A new Flutter project.
 
